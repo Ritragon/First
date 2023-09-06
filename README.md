@@ -3,3 +3,5 @@ Press F
 Super
 Def
 TRX
+Beach
+Ocean
